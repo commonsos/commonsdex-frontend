@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/commonsos/commonsdex-frontend/issues"
   },
-  "homepage": "https://github.com/commonsos/commonsdex-frontend#readme"
+  "homepage": "https://github.com/commonsos/commonsdex-frontend#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "ssl-express-www": "^3.0.2"
+  }
 }
