@@ -26,7 +26,7 @@
   "userCookie": "EtherDelta",
   "eventsCacheCookie": "EtherDelta_eventsCache",
   "ordersCacheCookie": "EtherDelta_ordersCache",
-  "etherscanAPIKey": "GCGR1C9I17TYIRNYUDDEIJH1K5BRPH4UDE",
+  "etherscanAPIKey": "5XX2RJX6AWRMFZ45CV4P1WI9IDFABMU36Z",
   "tokens": [
     { "addr": "0x0000000000000000000000000000000000000000", "name": "ETH", "decimals": 18 },
     { "addr": "0x40aade55175aaeed9c88612c3ed2ff91d8943964", "name": "1ST", "decimals": 18 }
