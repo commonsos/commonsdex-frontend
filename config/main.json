@@ -28,7 +28,7 @@
   ],
   "tokens": [
     { "addr": "0x00472287E0B3Fb24550895e47b6eC8AD807F0b61", "name": "COM", "fullName": "Commons Coin", "decimals": 18 },
-    { "addr": "0x85924fdcccb75c47c3d2155ae0a519018164cac0", "name": "TXY", "fullName": "Telomere Coin", "decimals": 18 },
+    { "addr": "0x85924fdcccb75c47c3d2155ae0a519018164cac0", "name": "TXY", "fullName": "Telomere Coin", "decimals": 0 },
     { "addr": "0xb33ad2acedea7d698b987e0d8195c4df3f6629e8", "name": "FCC", "fullName": "Five Colors Coin", "decimals": 18 }
   ],
   "defaultPair": { "token": "COM", "base": "ETH" }
